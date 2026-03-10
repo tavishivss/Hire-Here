@@ -41,9 +41,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 HireAI revolutionizes the recruitment process by combining advanced AI-powered candidate matching with immersive 3D avatar-based pre-screening interviews. Built to address the critical inefficiencies in modern recruitment workflows, our platform transforms how recruiters discover, evaluate, and engage with potential candidates.
 
-## Demo
-
-**Live Demo:** [https://youtu.be/IfJrJku7ZBM](https://youtu.be/IfJrJku7ZBM)
 
 ## Problem Statement
 
