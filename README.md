@@ -135,11 +135,6 @@ Detailed installation instructions and technical documentation are available in 
 
 We welcome contributions from the developer community. Please refer to our contribution guidelines for information on how to participate in the project development.
 
-## OpenSource softwares used
-
-[https://github.com/Blazity/shadcn-chatbot-kit](https://github.com/Blazity/shadcn-chatbot-kit)
-[https://github.com/met4citizen/TalkingHead?tab=readme-ov-file](https://github.com/met4citizen/TalkingHead?tab=readme-ov-file) - modified for custom usage
-
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for detailed terms and conditions.
